@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Boobalan138 (Boobalan_Selvaraj)
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Java, Data structures and algorithms
-- 💞️ I’m looking to collaborate on developing applications
-- 📫 How to reach me ...
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Java, Python
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 How to reach me boobal138@gmail.com
 
 <!---
 Boobalan138/Boobalan138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
