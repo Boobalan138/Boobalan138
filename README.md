@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boobalan138 (Boobalan_Selvaraj)
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me boobal138@gmail.com
 
